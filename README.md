@@ -1,6 +1,6 @@
 ![](/github_assets/logotype.png)
 
-Esse projeto foi desenvolvido durante a semana Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/). Sobre a mentoria de [Rodrigo Gonçalves](https://github.com/rodrigorgtic). O Plant Manager é um agendador de tarefas com o intuito de criar avisos para você sempre lembrar de cuidar bem das suas plantinhas, criando timers que irão te avisar a hora de regá-las. 🤗 / This project was developed during [Rocketseat's](https://rocketseat.com.br/) Next Level Week #5. About the mentorship of [Rodrigo Gonçalves](https://github.com/rodrigorgtic). Plant Manager is a task scheduler with the aim of creating reminders for you to always remember to take good care of your plants, creating timers that will let you know when to water them. 🤗
+Esse projeto foi desenvolvido durante a semana Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/). Sobre a mentoria de [Rodrigo Gonçalves](https://github.com/rodrigorgtic). O Plant Manager é um agendador de tarefas com o intuito de criar avisos para você sempre lembrar de cuidar bem das suas plantinhas, criando timers que irão te avisar a hora de regá-las. 🤗 / This project was developed during [Rocketseat's](https://rocketseat.com.br/) Next Level Week #5. With the mentorship of [Rodrigo Gonçalves](https://github.com/rodrigorgtic). Plant Manager is a task scheduler with the aim of creating reminders for you to always remember to take good care of your plants, creating timers that will let you know when to water them. 🤗
 
 ![](/github_assets/capa.jpg)
 
